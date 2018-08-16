@@ -7,5 +7,7 @@ This program take .txt/.csv files exported from Datawave and save .pdf results t
 For detail information, please read the user's manual.
 
 Author: Zhenhuan(Neyo) Yang
+
 Date: 08/15/2018
+
 Version: 1.0
