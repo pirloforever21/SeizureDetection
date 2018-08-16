@@ -1,0 +1,296 @@
+missing module named 'multiprocessing.forking' - imported by C:\Users\zy572688\PycharmProjects\design\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named 'win32com.gen_py' - imported by win32com, C:\Users\zy572688\PycharmProjects\design\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by C:\Users\zy572688\PycharmProjects\design\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named posix - imported by os, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named cStringIO - imported by pandas.compat, cPickle, pygments.util, tornado.template, jinja2._compat, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named cPickle - imported by pandas.compat, numpy.core.numeric, numpy.lib.format, numpy.lib.npyio, numpy.ma.core, pickleshare, jinja2._compat, zmq.sugar.socket, jupyter_client.session, zmq.eventloop.zmqstream, parso.cache, jedi._compatibility, ipykernel.serialize, ipykernel.pickleutil, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _curses - imported by curses, curses.has_key, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named future_builtins - imported by numpy.lib.npyio, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib', C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.get_option - imported by pandas, pandas.io.formats.console, pandas.io.parquet, pandas.io.clipboards, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.IntervalIndex - imported by pandas, pandas.core.dtypes.missing, pandas.core.indexes.category, pandas.core.reshape.tile, pandas.io.packers, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Series - imported by pandas, pandas.core.dtypes.missing, pandas.core.tools.timedeltas, pandas.core.algorithms, pandas.core.missing, pandas.core.accessor, pandas.core.reshape.concat, pandas.core.indexing, pandas.io.formats.format, pandas.core.indexes.datetimes, pandas.core.arrays.categorical, pandas.io.json.json, pandas.plotting._core, pandas.core.indexes.multi, pandas.core.window, pandas.core.reshape.tile, pandas.core.apply, pandas.io.pytables, pandas.io.packers, pandas.core.generic, pandas.core.indexes.accessors, pandas.core.strings, pandas.core.indexes.base, pandas.core.base, pandas.core.dtypes.concat, pandas.core.tools.datetimes, pandas.core.util.hashing, pandas.io.html, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.to_datetime - imported by pandas, pandas.core.dtypes.cast, pandas.core.arrays.categorical, pandas.io.json.json, pandas.core.groupby.groupby, pandas.core.reshape.tile, pandas.io.stata, pandas.io.pytables, pandas.core.generic, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.TimedeltaIndex - imported by pandas, pandas.core.tools.timedeltas, pandas.core.algorithms, pandas.core.indexes.datetimes, pandas.io.pytables, pandas.io.packers, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.to_timedelta - imported by pandas, pandas.core.dtypes.cast, pandas.core.arrays.categorical, pandas.core.window, pandas.core.groupby.groupby, pandas.core.reshape.tile, pandas.io.stata, pandas.core.tools.datetimes, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.to_numeric - imported by pandas, pandas.core.dtypes.cast, pandas.core.arrays.categorical, pandas.core.tools.datetimes, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.DatetimeIndex - imported by pandas, pandas.core.dtypes.cast, pandas.core.algorithms, pandas.core.missing, pandas.core.indexes.datetimelike, pandas.core.indexes.timedeltas, pandas.io.stata, pandas.io.pytables, pandas.io.packers, pandas.core.tools.datetimes, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.PeriodIndex - imported by pandas, pandas.core.algorithms, pandas.io.formats.excel, pandas.io.pytables, pandas.io.packers, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Index - imported by pandas, pandas.core.algorithms, pandas.core.accessor, pandas.core.reshape.concat, pandas.core.indexes.datetimelike, pandas.core.arrays.categorical, pandas.compat.pickle_compat, pandas.core.window, pandas.core.reshape.merge, pandas.io.formats.excel, pandas.io.pytables, pandas.io.packers, pandas.core.strings, pandas.core.base, pandas.core.dtypes.concat, pandas.core.sorting, pandas.core.tools.datetimes, pandas.core.util.hashing, pandas.core.dtypes.dtypes, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.DataFrame - imported by pandas, pandas.core.accessor, pandas.core.reshape.concat, pandas.core.indexing, pandas.core.indexes.timedeltas, pandas.io.json.json, pandas.plotting._tools, pandas.plotting._core, pandas.core.indexes.multi, pandas.core.window, pandas.core.reshape.merge, pandas.io.feather_format, pandas.io.parquet, pandas.core.reshape.pivot, pandas.io.json.normalize, pandas.io.json.table_schema, pandas.io.pytables, pandas.io.packers, pandas.io.clipboards, pandas.core.generic, pandas.core.strings, pandas.core.indexes.base, pandas.core.base, pandas.core.tools.datetimes, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.MultiIndex - imported by pandas, pandas.core.reshape.concat, pandas.io.json.json, pandas.core.window, pandas.core.reshape.merge, pandas.io.formats.excel, pandas.core.reshape.pivot, pandas.io.pytables, pandas.io.packers, pandas.core.strings, pandas.core.util.hashing, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Panel - imported by pandas, pandas.core.indexing, pandas.io.pytables, pandas.io.packers, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.DateOffset - imported by pandas, pandas.core.indexes.datetimelike, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Timestamp - imported by pandas, pandas.core.indexes.timedeltas, pandas.core.reshape.tile, pandas.io.packers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Float64Index - imported by pandas, pandas.core.internals, pandas.io.packers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.CategoricalIndex - imported by pandas, pandas.core.arrays.categorical, pandas.io.packers, pandas.core.dtypes.concat, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.isna - imported by pandas, pandas.io.json.json, pandas.io.stata, pandas.io.pytables, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.concat - imported by pandas, pandas.core.window, pandas.core.groupby.groupby, pandas.core.sparse.frame, pandas.io.pytables, pandas.core.strings, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Categorical - imported by pandas, pandas.core.reshape.tile, pandas.core.reshape.merge, pandas.io.packers, pandas.core.dtypes.concat, pandas.core.dtypes.cast, pandas.core.util.hashing, pandas.core.dtypes.common, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Timedelta - imported by pandas, pandas.core.reshape.tile, pandas.core.reshape.merge, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Interval - imported by pandas, pandas.core.reshape.tile, pandas.io.packers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.RangeIndex - imported by pandas, pandas.io.feather_format, pandas.io.parquet, pandas.io.packers, pandas.core.dtypes.concat, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Int64Index - imported by pandas, pandas.io.feather_format, pandas.io.parquet, pandas.io.pytables, pandas.io.packers, pandas.core.dtypes.concat, pandas.core.algorithms, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.SparseSeries - imported by pandas, pandas.io.pytables, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.SparseDataFrame - imported by pandas, pandas.io.pytables, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.Period - imported by pandas, pandas.io.packers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.NaT - imported by pandas, pandas.io.packers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.option_context - imported by pandas, pandas.io.clipboards, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.unique - imported by pandas, pandas.core.arrays.base, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas.factorize - imported by pandas, pandas.core.util.hashing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named simplejson - imported by pandas.util._print_versions, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named bs4 - imported by pandas.io.html, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named lxml - imported by pandas.io.html, html5lib.treewalkers.etree_lxml, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'chardet.universaldetector' - imported by html5lib._inputstream, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named datrie - imported by html5lib._trie.datrie, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named genshi - imported by html5lib.treewalkers.genshi, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'genshi.core' - imported by html5lib.treewalkers.genshi, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'lxml.html' - imported by pandas.io.html, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'lxml.etree' - imported by html5lib.treebuilders.etree_lxml, pandas.io.html, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pudb - imported by pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.amax - imported by numpy, numpy.ma.core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.amin - imported by numpy, numpy.ma.core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named xarray - imported by pandas.core.generic, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named bottleneck - imported by pandas.core.nanops, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'scipy.stats' - imported by pandas.core.nanops, pandas.plotting._misc, pandas.plotting._core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'scipy.sparse' - imported by pandas.core.sparse.scipy_sparse, pandas.core.sparse.frame, pandas.core.dtypes.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named xlsxwriter - imported by pandas.io.excel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named xlrd - imported by pandas.io.excel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named openpyxl - imported by pandas.io.excel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'openpyxl.style' - imported by pandas.io.excel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'openpyxl.styles' - imported by pandas.io.excel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named xlwt - imported by pandas.io.excel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named feather - imported by pandas.io.feather_format, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pyarrow - imported by pandas.io.parquet, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'pyarrow.parquet' - imported by pandas.io.parquet, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named fastparquet - imported by pandas.io.parquet, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numexpr - imported by pandas.core.computation.check, pandas.core.computation.expressions, pandas.core.computation.engines, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'scipy.signal' - imported by pandas.core.window, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'IPython.kernel.zmq' - imported by IPython, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pysqlite2 - imported by IPython.core.history, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named docrepr - imported by IPython.core.interactiveshell, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named repr - imported by IPython.core.debugger, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named mock - imported by matplotlib, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.random.randn - imported by numpy.random, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.random.rand - imported by numpy.random, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named PyQt5.QtX11Extras - imported by PyQt5, matplotlib.backends.backend_qt5
+missing module named 'IPython.kernel.comm' - imported by matplotlib.backends.backend_nbagg
+missing module named matplotlib.axes.Axes - imported by matplotlib.axes, matplotlib.legend, matplotlib.pyplot, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.figure, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named matplotlib.axes.Subplot - imported by matplotlib.axes, matplotlib.pyplot, pandas.plotting._core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'mpl_toolkits.natgrid' - imported by matplotlib.mlab, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named matplotlib.tri.Triangulation - imported by matplotlib.tri, matplotlib.tri.trifinder, matplotlib.tri.tritools, matplotlib.tri.triinterpolate, matplotlib.mlab, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named "'six.moves.urllib'.parse" - imported by matplotlib.image, matplotlib.textpath, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named "'six.moves.urllib'.request" - imported by matplotlib.image, matplotlib, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named subprocess32 - imported by matplotlib.compat.subprocess, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'backports.functools_lru_cache' - imported by matplotlib.fontconfig_pattern, matplotlib.font_manager, matplotlib.dviread, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named ordereddict - imported by pyparsing, C:\Users\zy572688\PycharmProjects\design\main.py, pkg_resources._vendor.pyparsing
+missing module named HTMLParser - imported by nbconvert.filters.citation, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named __pypy__ - imported by jinja2.debug, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'jinja2.debugrenderer' - imported by jinja2.debug, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pretty - imported by jinja2.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'markupsafe._speedups' - imported by markupsafe, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named backports - imported by pandas.compat, entrypoints, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named Queue - imported by nbconvert.preprocessors.execute, zmq.eventloop.zmqstream, jedi._compatibility, jupyter_client.blocking.client, jupyter_client.blocking.channels, ipykernel.inprocess.socket, ipykernel.inprocess.blocking, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named paramiko - imported by zmq.ssh.tunnel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named SocketServer - imported by zmq.ssh.forward, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named ipykernel.get_connection_file - imported by ipykernel, ipykernel.zmqshell, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named ipykernel.get_connection_info - imported by ipykernel, ipykernel.zmqshell, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named ipykernel.connect_qtconsole - imported by ipykernel, ipykernel.zmqshell, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'ipyparallel.serialize' - imported by ipykernel.pickleutil, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named dill - imported by ipykernel.pickleutil, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named cloudpickle - imported by ipykernel.pickleutil, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _subprocess - imported by jupyter_client.launcher, ipykernel.parentpoller, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named rfc3987 - imported by jsonschema._format, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named strict_rfc3339 - imported by jsonschema._format, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named isodate - imported by jsonschema._format, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named webcolors - imported by jsonschema._format, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named requests - imported by jsonschema.validators, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named functools32 - imported by jsonschema.compat, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named  - imported by nbformat.validator, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named resource - imported by posix, IPython.utils.timing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pydoc_topics - imported by jedi.api.keywords, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpydoc - imported by jedi.evaluate.docstrings, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'jedi.parser' - imported by IPython.core.completer, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named win_unicode_console - imported by IPython.terminal.interactiveshell, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'nose.tools' - imported by IPython.testing.tools, IPython.testing.decorators, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'nose.plugins' - imported by numpy.testing._private.noseclasses, numpy.testing._private.nosetester, IPython.testing.iptest, IPython.testing.plugin.ipdoctest, IPython.external.decorators._numpy_testing_noseclasses, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named nose - imported by numpy.testing._private.utils, numpy.testing._private.decorators, numpy.testing._private.noseclasses, IPython.testing.iptest, IPython.external.decorators._decorators, IPython.testing.decorators, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'nose.core' - imported by IPython.testing.iptest, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'nose.util' - imported by numpy.testing._private.noseclasses, IPython.testing.iptest, IPython.testing.plugin.ipdoctest, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pathlib2 - imported by pickleshare, testpath.asserts, IPython.utils.text, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named copy_reg - imported by cStringIO, cPickle, numpy.core, ipykernel.codeutil, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.intp - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.divide - imported by numpy.core, numpy.linalg.linalg, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, IPython.core.magics.namespace, pandas.compat.numpy.function, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.core.number - imported by numpy.core, numpy.testing._private.utils, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy.eye - imported by numpy, numpy.core.numeric, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named dummy_thread - imported by numpy.core.arrayprint, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pytest - imported by numpy.testing._private.pytesttester, matplotlib, pandas.util._tester, pandas.util.testing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named ConfigParser - imported by numpy.distutils.system_info, numpy.distutils.npy_pkg_config, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named Numeric - imported by numpy.distutils.system_info, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numarray - imported by numpy.distutils.system_info, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named __svn_version__ - imported by numpy.f2py.__version__, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named numpy_distutils - imported by numpy.f2py.diagnose, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.py33compat, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.py27compat, setuptools.package_index, setuptools.wheel, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils, setuptools.glob, setuptools.command.develop, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.py33compat, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces, C:\Users\zy572688\PycharmProjects\design\main.py, setuptools.msvc
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named wincertstore - imported by setuptools.ssl_support, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'setuptools.extern.packaging.utils' - imported by setuptools.wheel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _manylinux - imported by setuptools.pep425tags, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'setuptools.extern.packaging.version' - imported by setuptools.config, C:\Users\zy572688\PycharmProjects\design\main.py, setuptools.msvc
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named setuptools.extern.packaging - imported by setuptools.extern, setuptools.dist, setuptools.command.egg_info, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named commands - imported by numpy.distutils.cpuinfo, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named coverage - imported by IPython.testing.iptestcontroller, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'coverage.html' - imported by IPython.testing.iptestcontroller, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named PIL - imported by matplotlib.image, matplotlib.backend_bases, matplotlib.backends.backend_agg, ipykernel.pylab.config, C:\Users\zy572688\PycharmProjects\design\main.py, pygments.formatters.img
+missing module named pygments.lexers.BashLexer - imported by pygments.lexers, IPython.lib.lexers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pygments.lexers.PythonLexer - imported by pygments.lexers, IPython.lib.lexers, IPython.core.oinspect, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pygments.lexers.Python3Lexer - imported by pygments.lexers, IPython.lib.lexers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named chardet - imported by pygments.lexer, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urllib.urlopen - imported by urllib, pygments.lexers._postgres_builtins, pygments.lexers._lua_builtins
+missing module named urllib.FancyURLopener - imported by urllib, pygments.lexers._sourcemod_builtins
+missing module named ctags - imported by pygments.formatters.html
+missing module named pygments.formatters.HtmlFormatter - imported by pygments.formatters, IPython.lib.display, nbconvert.filters.highlight, nbconvert.filters.markdown_mistune, nbconvert.preprocessors.csshtmlheader, IPython.core.oinspect, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pygments.formatters.LatexFormatter - imported by pygments.formatters, IPython.lib.display, nbconvert.filters.highlight, nbconvert.preprocessors.latex, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named clr - imported by IPython.utils._process_cli, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pexpect - imported by IPython.utils._process_posix, zmq.ssh.tunnel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named ipyparallel - imported by ipykernel.zmqshell, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named importlib.lock_held - imported by importlib, ipykernel.iostream, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named PySide - imported by C:\Users\zy572688\PycharmProjects\design\main.py, matplotlib.backends.qt_compat
+missing module named sip - imported by IPython.external.qt_loaders, C:\Users\zy572688\PycharmProjects\design\main.py, matplotlib.backends.qt_compat, PyQt5, PyQt5.Qt, PyQt5.QtCore, PyQt5.QtGui, PyQt5.QtPrintSupport, PyQt5.QtSvg, PyQt5.QtWidgets
+missing module named PySide2 - imported by IPython.external.qt_loaders, C:\Users\zy572688\PycharmProjects\design\main.py, matplotlib.backends.qt_compat
+missing module named appnope - imported by ipykernel.eventloops, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named wx - imported by matplotlib.pyplot, IPython.lib.guisupport, ipykernel.eventloops, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named Tkinter - imported by ipykernel.eventloops, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named gobject - imported by matplotlib.pyplot, ipykernel.gui.gtkembed, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named gi - imported by matplotlib.pyplot, ipykernel.gui.gtk3embed, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'gi.repository' - imported by ipykernel.gui.gtk3embed, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named netifaces - imported by jupyter_client.localinterfaces, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.EAGAIN - imported by zmq, zmq.error, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.zmq_version - imported by zmq, zmq.error, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.zmq_version_info - imported by zmq, zmq.error, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.constants - imported by zmq.backend, zmq.sugar.constants, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.has - imported by zmq.backend, zmq.sugar.constants, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.Context - imported by zmq.backend, zmq.sugar.context, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pyczmq - imported by zmq.sugar.context, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.zmq_poll - imported by zmq.backend, zmq.sugar.poll, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.Socket - imported by zmq.backend, zmq.sugar.socket, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named cffi - imported by zmq.utils.interop, C:\Users\zy572688\PycharmProjects\design\main.py, zmq.backend.cffi._cffi
+missing module named zmq.backend.Frame - imported by zmq.backend, zmq.sugar.frame, zmq.sugar.tracker, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.zmq_version_info - imported by zmq.backend, zmq.sugar.version, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.strerror - imported by zmq.backend, zmq.error, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named zmq.backend.zmq_errno - imported by zmq.backend, zmq.error, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named gevent - imported by zmq.green.poll, zmq.green.core
+missing module named 'gevent.core' - imported by zmq.green.core
+missing module named 'gevent.hub' - imported by zmq.green.core
+missing module named 'gevent.event' - imported by zmq.green.core
+missing module named zmq.ETERM - imported by zmq, zmq.error, zmq.eventloop._deprecated, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named System - imported by traitlets.traitlets, IPython.utils._process_cli, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named traitlets.config.Application - imported by traitlets.config, traitlets.log, ipykernel.kernelspec, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named thread - imported by pandas.compat.chainmap_impl, numpy.core.arrayprint, tornado.ioloop, zmq.eventloop.minitornado.ioloop, ipykernel.parentpoller, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named htmlentitydefs - imported by tornado.escape, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named singledispatch - imported by tornado.gen, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named backports_abc - imported by tornado.gen, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named __builtin__ - imported by pandas.compat, numpy.core.numerictypes, numpy.core.numeric, numpy.distutils.misc_util, numpy.lib.function_base, numpy.lib._iotools, numpy.ma.core, numpy, ipython_genutils.py3compat, tornado.gen, jedi._compatibility, pyparsing, C:\Users\zy572688\PycharmProjects\design\main.py, pkg_resources._vendor.pyparsing
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named Cookie - imported by tornado.httputil, tornado.web, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named fcntl - imported by asyncio.unix_events, tornado.platform.posix, zmq.eventloop.minitornado.platform.posix, prompt_toolkit.terminal.vt100_output, prompt_toolkit.eventloop.posix, pandas.io.formats.terminal, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named monotime - imported by tornado.platform.auto, zmq.eventloop.minitornado.platform.auto, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named monotonic - imported by tornado.platform.auto, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named IPython.utils.warn - imported by IPython.utils, IPython.testing.tools, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named scipy - imported by numpy.testing._private.nosetester, pandas.core.missing, pandas.plotting._core, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'scipy.interpolate' - imported by pandas.core.missing, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named UserDict - imported by pytz.lazy, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named sets - imported by pytz.tzinfo, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, C:\Users\zy572688\PycharmProjects\design\main.py, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named __main__ - imported by pkg_resources, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named botocore - imported by pandas.io.s3, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pandas_gbq - imported by pandas.io.gbq, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named tables - imported by pandas.io.pytables, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named dateutil.tz.tzutc - imported by dateutil.tz, dateutil.rrule, jupyter_client.session, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named dateutil.tz.tzlocal - imported by dateutil.tz, dateutil.rrule, jupyter_client.jsonutil, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named dateutil.tz.tzfile - imported by dateutil.tz, dateutil.zoneinfo, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named six.moves.map - imported by six.moves, prompt_toolkit.document, matplotlib.afm, matplotlib.patches, matplotlib.axes._subplots, matplotlib.mlab, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named six.moves.xrange - imported by six.moves, matplotlib.cbook, matplotlib.backend_bases, matplotlib.hatch, matplotlib.markers, matplotlib.colorbar, matplotlib.contour, matplotlib.dviread, matplotlib.offsetbox, matplotlib.backends.backend_svg, matplotlib.mlab, matplotlib.tri.triinterpolate, matplotlib.axes._axes, matplotlib.stackplot, matplotlib.streamplot, matplotlib.table, matplotlib.axes._base, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named six.moves.zip - imported by six.moves, matplotlib.cbook, matplotlib.colors, matplotlib.textpath, matplotlib.patches, matplotlib.text, cycler, matplotlib.colorbar, matplotlib.collections, matplotlib.offsetbox, matplotlib.dates, matplotlib.legend_handler, matplotlib.mlab, matplotlib.widgets, matplotlib.axes._axes, C:\Users\zy572688\PycharmProjects\design\main.py
+runtime module named six.moves - imported by dateutil.tz.tz, dateutil.tz.win, dateutil.rrule, prompt_toolkit.utils, prompt_toolkit.document, prompt_toolkit.buffer, prompt_toolkit.layout.containers, prompt_toolkit.layout.controls, prompt_toolkit.layout.lexers, prompt_toolkit.layout.processors, prompt_toolkit.layout.margins, prompt_toolkit.styles.from_dict, prompt_toolkit.renderer, prompt_toolkit.key_binding.bindings.named_commands, prompt_toolkit.key_binding.bindings.scroll, prompt_toolkit.key_binding.bindings.vi, prompt_toolkit.layout.menus, prompt_toolkit.terminal.vt100_output, prompt_toolkit.terminal.win32_input, prompt_toolkit.key_binding.input_processor, prompt_toolkit.terminal.vt100_input, matplotlib.cbook, matplotlib.backend_bases, matplotlib.colors, matplotlib.textpath, matplotlib.hatch, matplotlib.afm, matplotlib.font_manager, matplotlib.patches, matplotlib.markers, matplotlib.text, matplotlib.axes._subplots, cycler, matplotlib.colorbar, matplotlib.collections, matplotlib.contour, matplotlib.dviread, matplotlib.offsetbox, 'six.moves.urllib', matplotlib.dates, matplotlib.backends.backend_svg, matplotlib.legend_handler, matplotlib.mlab, matplotlib.tri.triinterpolate, matplotlib.widgets, matplotlib.axes._axes, matplotlib.stackplot, matplotlib.streamplot, matplotlib.table, matplotlib.axes._base, matplotlib, html5lib._inputstream, html5lib.filters.sanitizer, C:\Users\zy572688\PycharmProjects\design\main.py, matplotlib.backends.tkagg, matplotlib.backends._backend_tk, matplotlib.backends.backend_ps
+missing module named six.moves.range - imported by six.moves, dateutil.rrule, prompt_toolkit.utils, prompt_toolkit.document, prompt_toolkit.buffer, prompt_toolkit.layout.containers, prompt_toolkit.layout.controls, prompt_toolkit.layout.lexers, prompt_toolkit.layout.processors, prompt_toolkit.layout.margins, prompt_toolkit.styles.from_dict, prompt_toolkit.renderer, prompt_toolkit.key_binding.bindings.named_commands, prompt_toolkit.key_binding.bindings.scroll, prompt_toolkit.key_binding.bindings.vi, prompt_toolkit.layout.menus, prompt_toolkit.terminal.vt100_output, prompt_toolkit.terminal.win32_input, prompt_toolkit.key_binding.input_processor, prompt_toolkit.terminal.vt100_input, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named StringIO - imported by pandas.compat, six, numpy.lib.utils, numpy.testing._private.utils, numpy.lib.format, pygments.util, jsonschema.compat, C:\Users\zy572688\PycharmProjects\design\main.py, pkg_resources._vendor.six
+missing module named blosc - imported by pandas.io.packers, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named sqlalchemy - imported by pandas.io.sql, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named multiprocessing.Process - imported by multiprocessing, zmq.ssh.tunnel, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'sqlalchemy.ext' - imported by pandas.io.sql, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'sqlalchemy.schema' - imported by pandas.io.sql, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'sqlalchemy.types' - imported by pandas.io.sql, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'PyQt4.QtGui' - imported by pandas.io.clipboard.clipboards, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named gtk - imported by ipykernel.gui.gtkembed, pandas.io.clipboard.clipboards, pandas.io.clipboard, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named qtpy - imported by pandas.io.clipboard.clipboards, pandas.io.clipboard, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named PyQt4 - imported by matplotlib.pyplot, pandas.io.clipboard, C:\Users\zy572688\PycharmProjects\design\main.py, matplotlib.backends.qt_compat
+missing module named _scproxy - imported by urllib.request, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urllib2 - imported by numpy.lib._datasource, jsonschema.compat, nbconvert.filters.strings, pandas.io.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urlparse - imported by numpy.lib._datasource, notebook.nbextensions, tornado.escape, tornado.httputil, tornado.web, notebook.utils, jsonschema.compat, tornado.simple_httpclient, tornado.websocket, pandas.io.common, pandas.io.s3, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named httplib - imported by pandas.compat, tornado.httputil, pandas.io.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named py - imported by pandas.io.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named s3fs - imported by pandas.io.s3, pandas.io.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named org - imported by pickle, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named readline - imported by cmd, code, pdb, pstats, C:\Users\zy572688\PycharmProjects\design\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _winreg - imported by platform, numpy.distutils.cpuinfo, IPython.utils.path, nbconvert.preprocessors.svg2pdf, jedi.api.environment, C:\Users\zy572688\PycharmProjects\design\main.py, pkg_resources._vendor.appdirs, pygments.formatters.img
+missing module named java - imported by platform, unittest.mock, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named vms_lib - imported by platform, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named termios - imported by tty, getpass, prompt_toolkit.terminal.vt100_output, prompt_toolkit.terminal.vt100_input, IPython.core.page, pandas.io.formats.terminal, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urllib.urlencode - imported by urllib, IPython.lib.display, tornado.httputil, tornado.web, pandas.io.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urllib.urlretrieve - imported by urllib, notebook.nbextensions, C:\Users\zy572688\PycharmProjects\design\main.py, pygments.lexers._php_builtins
+missing module named urllib.quote - imported by urllib, notebook.utils, jinja2._compat, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urllib.unquote - imported by urllib, notebook.utils, jsonschema.compat, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named urllib.pathname2url - imported by urllib, pandas.io.common, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named grp - imported by shutil, tarfile, pathlib, distutils.archive_util, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named 'org.python' - imported by copy, setuptools.sandbox, xml.sax, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, pathlib, distutils.util, distutils.archive_util, netrc, getpass, C:\Users\zy572688\PycharmProjects\design\main.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\zy572688\PycharmProjects\design\main.py
